@@ -17,7 +17,7 @@
 }
 
 .topicos__item{
-    margin: 2em 0.5em;
+    margin: 2em 0.7em;
 }
 
 .topicos__link{
@@ -26,6 +26,7 @@
     background-color: var(--laranja);
     font-size: 14px;
     font-weight: 700;
+    font-decoration:none;
 }
 
 
